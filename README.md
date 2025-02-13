@@ -2,6 +2,8 @@
 
 # **Resiliency By Azure Service**
 
+> <sub> ___Disclaimer___: 
+*The resiliency methods and information provided for Azure services are subject to change. For the most current and accurate information, always refer to the official Azure documentation.</sub>*
 
 
 Here's a table summarizing the resiliency methods, customer effort to enable resiliency, pricing for resiliency, multi-region disaster recovery strategies, customer effort to enable disaster recovery, pricing for multi-region support, and documentation links for the requested Azure resources:
